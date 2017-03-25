@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:21:56:26 +0100] "GET /restservice/rest/sun/sunrise/paris/today HTTP/1.1" 200 50 http-bio-8080-exec-1 1061
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:21:56:30 +0100] "GET /restservice/rest/sun/sunrise/paris/tomorrow HTTP/1.1" 200 50 http-bio-8080-exec-3 321
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:21:56:34 +0100] "GET /restservice/rest/sun/sunrise/paris/yesteday HTTP/1.1" 400 52 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:21:56:40 +0100] "GET /restservice/rest/sun/sunrise/paris/yesterday HTTP/1.1" 200 50 http-bio-8080-exec-5 421
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:22:01:15 +0100] "GET /restservice/rest/sun/sunrise/paris/sunday HTTP/1.1" 200 50 http-bio-8080-exec-8 542
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:22:01:25 +0100] "GET /restservice/rest/sun/sunrise/paris/monday HTTP/1.1" 200 50 http-bio-8080-exec-10 457
+0:0:0:0:0:0:0:1 - - [25/Mar/2017:22:01:32 +0100] "GET /restservice/rest/sun/sunrise/paris/friday HTTP/1.1" 200 50 http-bio-8080-exec-10 429

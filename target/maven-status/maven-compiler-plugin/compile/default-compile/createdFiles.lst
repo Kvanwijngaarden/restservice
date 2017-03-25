@@ -1,0 +1,8 @@
+nl/hu/iac/service/SunSetImpl.class
+nl/hu/iac/service/ValidateDate.class
+nl/hu/iac/rest/SunRestService.class
+nl/hu/iac/service/Location.class
+nl/hu/iac/service/LocationImpl.class
+nl/hu/iac/service/ServiceProvider.class
+nl/hu/iac/service/ReadUrl.class
+nl/hu/iac/service/SunRiseImpl.class
